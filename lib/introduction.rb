@@ -1,6 +1,5 @@
 def introduction(name)
-  name= "josh"
-  puts "Hi,my name is #{name}.\n"
+  puts ("Hi,my name is #{name}.\n").to_stdout
 end
 
   
